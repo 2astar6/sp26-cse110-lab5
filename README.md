@@ -1,3 +1,7 @@
+# Contributors
+
+Andre S (solo)
+
 # Contents
 
 This repo iterates on Lab 4's basic HTML/CSS/JS site, improving JS with testing & more dev-ops. 
